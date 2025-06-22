@@ -5,5 +5,6 @@ Thank you for the opportunity to work on this assignment. I have completed it as
 
 Problem 01: Happy Meeting Days - Directly run the file Happy_Meeting_days.java in any ide to get the solution.
 
-Assessment 02: InCredit Risk Assessment API - Create a regression based credit classification : It is a spring boot project, please run it appropriately using the main class i.e. TarrinaHealthAssignmentApplication.java file or build it on your system.
+Assessment 02: InCredit Risk Assessment API - Create a regression based credit classification : 
+It is a spring boot project in folder named Tarrina_Health_Assignment, please run it appropriately using the main class i.e. TarrinaHealthAssignmentApplication.java file or build it on your system.
 
