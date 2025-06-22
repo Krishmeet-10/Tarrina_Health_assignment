@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": 7,
+    "registration_date": "2022-01-10",
+    "city": "Delhi",
+    "state": "Delhi",
+    "age": 30,
+    "approx_annual_income_inr": 1000000,
+    "employment_status": "Salaried",
+    "orders": [
+      {
+        "order_id": "ORD-001",
+        "order_date": "2022-01-20",
+        "order_amount_inr": 20000,
+        "credit_extended_amount_inr": 20000,
+        "credit_tenure_months": 3,
+        "payment_due_date": "2022-04-20",
+        "payment_status": "PAID",
+        "last_payment_date": "2022-04-18",
+        "amount_paid_inr": 20000,
+        "days_outstanding_or_late": 0
+      }
+    ],
+    "target_will_pay_on_time_next_credit": true
+  }
+]
